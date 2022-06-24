@@ -1,0 +1,14 @@
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\bin\Debug\TicketApp.exe.config
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\bin\Debug\TicketApp.exe
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\bin\Debug\TicketApp.pdb
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.AssemblyReference.cache
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\obj\Debug\TicketApp.Form1.resources
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\obj\Debug\TicketApp.Properties.Resources.resources
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\obj\Debug\TicketApp.exe
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\obj\Debug\TicketApp.pdb
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\obj\Debug\TicketApp.UserControl1.resources
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\obj\Debug\TicketApp.UserControl2.resources
+C:\Users\hanon\Documents\ISITECH\dashboardtest\TicketApp\TicketApp\obj\Debug\TicketApp.UserControl3.resources
