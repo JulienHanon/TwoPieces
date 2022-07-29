@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba05c6d3-f4b4-4600-addf-17574b5ec430": {
+      "ProjectGuid": "ba05c6d3-f4b4-4600-addf-17574b5ec430",
+      "DisplayName": "DashboardApp",
+      "ColorIndex": 0
+    },
+    "2216df96-e28a-4d69-be5b-f83aefe1b1c8": {
+      "ProjectGuid": "2216df96-e28a-4d69-be5b-f83aefe1b1c8",
+      "DisplayName": "TicketApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
