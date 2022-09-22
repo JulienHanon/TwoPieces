@@ -1,0 +1,13 @@
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\bin\Release\DashboardApp.exe.config
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\bin\Release\DashboardApp.exe
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\bin\Release\DashboardApp.pdb
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Release\DashboardApp.csproj.AssemblyReference.cache
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Release\DashboardApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Release\DashboardApp.Form1.resources
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Release\DashboardApp.Form2.resources
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Release\DashboardApp.Form3.resources
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Release\DashboardApp.Properties.Resources.resources
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Release\DashboardApp.csproj.GenerateResource.cache
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Release\DashboardApp.csproj.CoreCompileInputs.cache
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Release\DashboardApp.exe
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Release\DashboardApp.pdb
