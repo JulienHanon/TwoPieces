@@ -66,11 +66,26 @@
     <Compile Include="Form3.Designer.cs">
       <DependentUpon>Form3.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormLogincs.cs" />
+    <Compile Include="FormLogincs.Designer.cs">
+      <DependentUpon>FormLogincs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMessagerie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMessagerie.Designer.cs">
+      <DependentUpon>FormMessagerie.cs</DependentUpon>
+    </Compile>
     <Compile Include="Models\Dashboard.cs" />
     <Compile Include="NorthwindStoreDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>NorthwindStoreDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NorthwindStoreDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NorthwindStoreDataSet1.xsd</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -82,6 +97,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form3.resx">
       <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogincs.resx">
+      <DependentUpon>FormLogincs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMessagerie.resx">
+      <DependentUpon>FormMessagerie.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -103,6 +124,17 @@
     </None>
     <None Include="NorthwindStoreDataSet.xss">
       <DependentUpon>NorthwindStoreDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="NorthwindStoreDataSet1.xsc">
+      <DependentUpon>NorthwindStoreDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="NorthwindStoreDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NorthwindStoreDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NorthwindStoreDataSet1.xss">
+      <DependentUpon>NorthwindStoreDataSet1.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

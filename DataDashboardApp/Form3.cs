@@ -20,13 +20,13 @@ namespace DashboardApp
         public Socket s = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
         public Thread Receive; 
 
-        public Form3()
+        public void dForm3()
         {
             InitializeComponent();
-            String HostName = Dns.GetHostName();
+/*            String HostName = Dns.GetHostName();
             IPAddress IpAdress = Dns.GetHostByName(HostName).AddressList[0];
             IPEndPoint ipe = new IPEndPoint(IpAdress, 23);
-            s.Connect(ipe);
+            s.Connect(ipe);*/
             flowLayoutPanel1.FlowDirection = FlowDirection.BottomUp; 
             flowLayoutPanel1.WrapContents = false;
             flowLayoutPanel1.AutoScroll = true;
@@ -44,38 +44,10 @@ namespace DashboardApp
             Receive.IsBackground = true;
             Receive.Start(); 
         }
-        private bool LoginCheck()
-        {
-            if (textBox1.Text == "JulienHanon")
-            {
-                return true; 
-            }
-            else
-            {
-                return false;
-            }
-           
-        }
-
-        private bool PassWordCheck()
-        {
-            if(textBox2.Text == "Fuecoco")
-            {
-                return true; 
-            }
-            else
-            {
-                return false; 
-            }
-        }
         private void ThreadSend()
         {
-                
-                
-                if (LoginCheck() && PassWordCheck())
-                {
 
-                    try
+                   /* try
                     {
                         
                         if (s.Connected)
@@ -99,12 +71,8 @@ namespace DashboardApp
                     {
                         Console.WriteLine("Unexpected exception : {0}", ex.ToString());
                     }
-                }
-                else
-                {
-                    MessageBox.Show("Login or Password incorrect ! Access denied !");
-                }
-
+                
+*/
 
                 if (textBox3.Text != "")
                 {
@@ -151,6 +119,12 @@ namespace DashboardApp
 
         private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
+
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
