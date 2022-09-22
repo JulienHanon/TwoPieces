@@ -10,7 +10,17 @@
       "ProjectGuid": "2216df96-e28a-4d69-be5b-f83aefe1b1c8",
       "DisplayName": "TicketApp",
       "ColorIndex": 1
+    },
+    "bfaf49b9-d554-4b88-bc92-dbbc6711436b": {
+      "ProjectGuid": "bfaf49b9-d554-4b88-bc92-dbbc6711436b",
+      "DisplayName": "TicketApp",
+      "ColorIndex": 2
+    },
+    "c30fc9e0-2784-4cbb-9fc5-9efb0bb6ab10": {
+      "ProjectGuid": "c30fc9e0-2784-4cbb-9fc5-9efb0bb6ab10",
+      "DisplayName": "WindowsAppTest",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

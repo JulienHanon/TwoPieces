@@ -39,8 +39,14 @@ namespace DashboardApp
         private void button2_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form3 f3 = new Form3();
+            FormLogincs f3 = new FormLogincs();
             f3.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form4 f4 = new Form4();
+            f4.Show();
         }
     }
 }
