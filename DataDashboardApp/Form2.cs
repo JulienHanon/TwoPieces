@@ -20,7 +20,7 @@ namespace DashboardApp
         private void Form2_Load(object sender, EventArgs e)
         {
             // TODO: cette ligne de code charge les données dans la table 'northwindStoreDataSet.Ticket'. Vous pouvez la déplacer ou la supprimer selon les besoins.
-           //this.ticketTableAdapter.Fill(this.northwindStoreDataSet.Ticket);
+           this.ticketTableAdapter.Fill(this.northwindStoreDataSet.Ticket);
 
         }
 

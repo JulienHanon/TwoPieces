@@ -60,12 +60,6 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form3.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form3.Designer.cs">
-      <DependentUpon>Form3.cs</DependentUpon>
-    </Compile>
     <Compile Include="FormLogincs.cs" />
     <Compile Include="FormLogincs.Designer.cs">
       <DependentUpon>FormLogincs.cs</DependentUpon>
@@ -82,11 +76,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>NorthwindStoreDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="NorthwindStoreDataSet1.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>NorthwindStoreDataSet1.xsd</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -94,9 +83,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form3.resx">
-      <DependentUpon>Form3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormLogincs.resx">
       <DependentUpon>FormLogincs.cs</DependentUpon>
@@ -124,17 +110,6 @@
     </None>
     <None Include="NorthwindStoreDataSet.xss">
       <DependentUpon>NorthwindStoreDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="NorthwindStoreDataSet1.xsc">
-      <DependentUpon>NorthwindStoreDataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="NorthwindStoreDataSet1.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>NorthwindStoreDataSet1.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="NorthwindStoreDataSet1.xss">
-      <DependentUpon>NorthwindStoreDataSet1.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
