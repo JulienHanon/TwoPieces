@@ -39,9 +39,9 @@ namespace DashboardApp
                 lblTotalRevenue.Text = "$" + model.TotalRevenue.ToString();
                 lblTotalProfit.Text = "$" + model.TotalProfit.ToString();
 
-                lblNumCustomers.Text = model.NumCustomers.ToString();
-                lblNumSuppliers.Text = model.NumSuppliers.ToString();
-                lblNumProducts.Text = model.NumProducts.ToString();
+                //lblNumCustomers.Text = model.NumCustomers.ToString();
+                //lblNumSuppliers.Text = model.NumSuppliers.ToString();
+                //lblNumProducts.Text = model.NumProducts.ToString();
 
                 chartGrossRevenue.DataSource = model.GrossRevenueList;
                 chartGrossRevenue.Series[0].XValueMember = "Date";
@@ -116,6 +116,11 @@ namespace DashboardApp
         {
             Hide();
             
+        }
+
+        private void chartGrossRevenue_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
