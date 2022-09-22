@@ -244,7 +244,6 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::DashboardApp.Properties.Resources.Logo_Two_Piece_t21;
             this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
             this.pictureBox1.Location = new System.Drawing.Point(-20, 310);
             this.pictureBox1.Name = "pictureBox1";

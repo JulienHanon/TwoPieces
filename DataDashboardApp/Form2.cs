@@ -12,9 +12,11 @@ namespace DashboardApp
 {
     public partial class Form2 : Form
     {
-        public Form2()
+        public string myName;
+        public Form2(string LoggerName)
         {
             InitializeComponent();
+            myName = LoggerName;
         }
 
         private void Form2_Load(object sender, EventArgs e)
@@ -39,7 +41,7 @@ namespace DashboardApp
         private void button2_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form3 f3 = new Form3();
+            FormMessagerie f3 = new FormMessagerie(myName);
             f3.Show();
         }
 

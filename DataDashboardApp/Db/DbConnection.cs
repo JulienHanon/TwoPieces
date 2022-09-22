@@ -16,7 +16,7 @@ namespace DashboardApp.Db
             connectionString = "Server=(local); DataBase=NorthwindStore; Integrated Security=true";
         }
 
-        protected SqlConnection GetConnection()
+        public SqlConnection GetConnection()
         {
             return new SqlConnection(connectionString);
         }

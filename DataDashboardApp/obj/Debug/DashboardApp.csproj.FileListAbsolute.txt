@@ -32,5 +32,6 @@ C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\Data
 C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Debug\DashboardApp.csproj.CoreCompileInputs.cache
 C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Debug\DashboardApp.exe
 C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Debug\DashboardApp.pdb
-C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Debug\DashboardApp.Form3.resources
 C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Debug\DashboardApp.Form4.resources
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Debug\DashboardApp.GetDBConnection.resources
+C:\Users\hanon\Documents\Two_Pieces\TwoPieces-Dashboard\TwoPieces-Dashboard\DataDashboardApp\obj\Debug\DashboardApp.FormMessagerie.resources
